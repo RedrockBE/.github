@@ -16,3 +16,9 @@
 - [RedrockFE - 前端研发部](https://github.com/Redrock-Fe)
 - [RedrockMobile - 移动开发部](https://github.com/RedrockMobile)
 - [CQUPT OpenSource Mirror - 开源镜像站](https://github.com/CQUPTMirror)
+
+## 联络
+- [后端研发部 be@redrock.team](mailto:be@redrock.team)
+- [前端研发部 fe@redrock.team](mailto:fe@redrock.team)
+- [移动开发部 mobile@redrock.team](mailto:mobile@redrock.team)
+- [运维安全部 sre@redrock.team](mailto:sre@redrock.team)
