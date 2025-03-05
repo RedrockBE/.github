@@ -12,6 +12,7 @@
 - [重庆邮电大学开源镜像站 mirrors.redrock.team](https://mirrors.redrock.team)
 
 ## 其他部门
-- [RedrockTeam](https://github.com/RedrockTeam)
-- [RedrockMobile](https://github.com/RedrockMobile)
-- [CQUPT OpenSource Mirror](https://github.com/CQUPTMirror)
+- [RedrockTeam - 红岩网校工作站](https://github.com/RedrockTeam)
+- [RedrockFE - 前端研发部](https://github.com/Redrock-Fe)
+- [RedrockMobile - 移动开发部](https://github.com/RedrockMobile)
+- [CQUPT OpenSource Mirror - 开源镜像站](https://github.com/CQUPTMirror)
